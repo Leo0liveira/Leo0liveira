@@ -2,6 +2,11 @@
 
 My name is Leonardo Oliveira, and I'm from Brazil (🇧🇷).
 
+🗣 I speak
+
+![English](https://img.shields.io/badge/-English-blue)
+![Portuguese](https://img.shields.io/badge/-Portuguese-green)
+
 🔎 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-freitas)
@@ -10,6 +15,10 @@ My name is Leonardo Oliveira, and I'm from Brazil (🇧🇷).
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoufms@gmail.com)
 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira" />
+</p>
 
 
 
