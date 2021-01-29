@@ -5,13 +5,9 @@ My name is Leonardo Oliveira, and I'm from Brazil.
 
 🗣 I speak ![Portuguese](https://img.shields.io/badge/-Portuguese-green) and ![English](https://img.shields.io/badge/-English-blue) 
 
-🔎 Would you like to find me?
+🔎 You can find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-freitas)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oleofelipe_/) 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoufms@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-freitas) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oleofelipe_/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoufms@gmail.com)
 
 
 <p align="left">
