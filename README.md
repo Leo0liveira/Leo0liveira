@@ -1,7 +1,14 @@
-### Hi there 👋
+# "Olá Visitante!" 👋
+
+My name is Leonardo Oliveira, and I'm from Brazil (🇧🇷).
+
+Would you like to find me?
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-oliveira-freitas)
+(https://www.linkedin.com/in/leonardo-oliveira-freitas)
+
 
 <!--
-**Leo0liveira/Leo0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
