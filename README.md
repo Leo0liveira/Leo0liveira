@@ -1,11 +1,9 @@
 # "Hi there!" 👋
 
-My name is Leonardo Oliveira, and I'm from Brazil (🇧🇷).
+My name is Leonardo Oliveira, and I'm from Brazil.
 
-🗣 I speak
 
-![English](https://img.shields.io/badge/-English-blue)
-![Portuguese](https://img.shields.io/badge/-Portuguese-green)
+🗣 I speak ![Portuguese](https://img.shields.io/badge/-Portuguese-green) and ![English](https://img.shields.io/badge/-English-blue) 
 
 🔎 Would you like to find me?
 
@@ -17,7 +15,7 @@ My name is Leonardo Oliveira, and I'm from Brazil (🇧🇷).
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats"/>
 </p>
 
 
