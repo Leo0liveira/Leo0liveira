@@ -4,7 +4,7 @@
 
 ---
 
-## 🗣 I speak <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> Portuguese and <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" /> English
+## 🗣 I speak Portuguese <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> and  English <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" />
 
 ## 👨🏻‍💻Languages: 
 * <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> Javascript
