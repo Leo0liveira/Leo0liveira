@@ -16,7 +16,7 @@
 
 ## 🔎 You can find me on:
 
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/LinkedIn.svg" width = "20" />  [LinkedIn](https://www.linkedin.com/in leonardo-oliveira-freitas)
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/LinkedIn.svg" width = "20" /> [LinkedIn](https://www.linkedin.com/inleonardo-oliveira-freitas)
 * <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Gmail.svg" width = "20" /> [Gmail](mailto:leoufms@gmail.com)
 * <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Instagram.svg" width = "20" />  [Instagram](https://www.instagram.com/oleofelipe_/)
 
