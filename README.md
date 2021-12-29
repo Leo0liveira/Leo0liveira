@@ -7,10 +7,10 @@
 ## 🗣 I speak Portuguese <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> and  English <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" />
 
 ## 👨🏻‍💻Languages: 
-<img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> Javascript
-<img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Java.svg" width = "20" /> Java
-<img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Python.svg" width = "20" /> Python 
-<img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/C++.svg" width = "20" /> C++
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> Javascript
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Java.svg" width = "20" /> Java
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Python.svg" width = "20" /> Python 
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/C++.svg" width = "20" /> C++
 
 ---
 
