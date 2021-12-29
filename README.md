@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## My name is Leonardo Oliveira, and I'm from <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> Brazil 
+## My name is Leonardo Oliveira, and I'm from Brazil <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" />
 
 ---
 
