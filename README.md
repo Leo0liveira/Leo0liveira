@@ -1,30 +1,33 @@
 # Hi there! 👋
 
-## My name is Leonardo Oliveira, and I'm from Brazil
+## My name is Leonardo Oliveira, and I'm from <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> Brazil 
 
 ---
 
-## 🗣 I speak ![Portuguese](https://img.shields.io/badge/-Portuguese-green) and ![English](https://img.shields.io/badge/-English-blue) 
+## 🗣 I speak <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> Portuguese and <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" /> English
 
 ## 👨🏻‍💻Languages: 
-* [Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black),
-* [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white),
-* [Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) and
-* [C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> Javascript
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Java.svg" width = "20" /> Java
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Python.svg" width = "20" /> Python 
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/C++.svg" width = "20" /> C++
 
 ---
 
 ## 🔎 You can find me on:
 
-* [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/leonardo-oliveira-freitas)
+* [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> [LinkedIn](https://www.linkedin.com/in leonardo-oliveira-freitas)
 * [Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:leoufms@gmail.com)
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" />[Gmail](mailto:leoufms@gmail.com)
 * [Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/oleofelipe_/)
+* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> [Instagram](https://www.instagram.com/oleofelipe_/)
 
-<details>
+---
+## GitHub Status
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=false"/>
 </p>
-  </details>
 <!--
 
 Here are some ideas to get you started:
