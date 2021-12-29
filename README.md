@@ -2,7 +2,7 @@
 
 <h3>My name is Leonardo Oliveira, and I'm from Brazil.</h3>
 
-🗣 I speak ![Portuguese](https://img.shields.io/badge/-Portuguese-green) and ![English](https://img.shields.io/badge/-English-blue) 
+🗣 I speak 🇧🇷 ![Portuguese] and ![English](https://img.shields.io/badge/-English-blue) 
 
 👨🏻‍💻I code in: 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black),
