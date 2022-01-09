@@ -7,10 +7,13 @@
 ## 🗣 I speak Portuguese <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> and  English <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" />
 
 ## 👨🏻‍💻Languages: 
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/JavaScript.svg" width = "20" /> Javascript
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Python.svg" width = "20" /> Python
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Java.svg" width = "20" /> Java
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/C++.svg" width = "20" /> C++
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 ---
 
