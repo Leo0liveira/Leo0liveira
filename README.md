@@ -27,7 +27,9 @@
 <div>
   <a href="https://www.instagram.com/oleofelipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leoufms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  [Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## About Me
@@ -35,11 +37,6 @@
 - 🔭 I’m currently working on Compass Uol
 - 🌱 I’m currently learning Rasa
 - 😄 Pronouns: He/Him
-
-<div>
-  [Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
-  [link](https://www.youtube.com/watch?v=_K4VIIoBK84)
-</div>
 
 <!--
 - 🔭 I’m currently working on Compass Uol
