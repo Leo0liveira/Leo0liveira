@@ -16,9 +16,10 @@
 
 ## 🔎 You can find me on:
 
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/LinkedIn.svg" width = "20" /> [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-freitas/)
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Gmail.svg" width = "20" /> [Gmail](mailto:leoufms@gmail.com)
-* <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Instagram.svg" width = "20" />  [Instagram](https://www.instagram.com/oleofelipe_/)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (mailto:leoufms@gmail.com)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/leonardo-oliveira-freitas/)
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (https://www.instagram.com/oleofelipe_/)
+
 
 ---
 ## GitHub Status
