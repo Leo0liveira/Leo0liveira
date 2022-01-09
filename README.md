@@ -24,8 +24,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=synthwave"/>
 </p>
-## 🔎 You can find me on:
 
+## 🔎 You can find me on:
 <div>
   <a href="https://www.instagram.com/oleofelipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leoufms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
