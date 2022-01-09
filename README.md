@@ -28,7 +28,7 @@
 </div>
 
 <div>
-   ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/main/Templates/cobrinha.yml)
 </div>
 ## About Me
 
