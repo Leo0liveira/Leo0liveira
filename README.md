@@ -21,6 +21,8 @@
   <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=synthwave"/>
+  
+   ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ## 🔎 You can find me on:
@@ -29,7 +31,6 @@
   <a href = "mailto:leoufms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## About Me
