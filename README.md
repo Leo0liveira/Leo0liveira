@@ -23,8 +23,8 @@
 ---
 ## GitHub Status
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=synthwave"/>
 </p>
 
 
