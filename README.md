@@ -40,7 +40,7 @@
 - 😄 Pronouns: He/Him
 
 <div>
-   ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/main/Templates/cobrinha.yml)
+   ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
