@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-## My name is Leonardo Oliveira, and I'm from Brazil <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" />
+## My name is Leonardo Oliveira, and I'm from Brazil
 
 ---
 
-## 🗣 I speak Portuguese <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Brazil.svg" width="20" /> and  English <img src="https://raw.githubusercontent.com/Leo0liveira/Leo0liveira/main/Templates/Eua.svg" width="20" />
+## 🗣 I speak Portuguese and English 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adrian-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
