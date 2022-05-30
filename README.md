@@ -22,8 +22,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=synthwave&show_icons=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=synthwave"/>
   
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/Leo0liveira/Leo0liveira/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 </p>
 
