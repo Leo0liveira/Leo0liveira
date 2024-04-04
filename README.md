@@ -1,4 +1,4 @@
-# Olá, eu sou [Leonardo] 👋
+# Olá, eu sou o Leonardo 👋
 
 Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenvolvimento para Android. Sempre em busca de aprender coisas novas e colaborar em projetos interessantes.
 
@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 - 🔭 Atualmente estou trabalhando na Compass.UOL
 - 🌱 Estou aprendendo Kotlin e me aprofundando em desenvolvimento para Android
 - 💬 Me pergunte sobre AI, ML, Chatbots
-- 📫 Como me encontrar: <a href = "mailto:lfofreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 Como me encontrar: lfofreitas@gmail.com 
 
 ## Habilidades
 
@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 
 ## Contribuições
 
-- Contribuições para projetos de código aberto:[RasaBoilerPlate](https://github.com/lappis-unb/rasa-ptbr-boilerplate)
+- Contribuições para projetos de código aberto: [RasaBoilerPlate](https://github.com/lappis-unb/rasa-ptbr-boilerplate)
 
 ## Estatísticas do GitHub
 
@@ -27,5 +27,5 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 
 ## Contato
 
-- Email: [lfofreitas@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/leonardo-oliveira-freitas/]
+- <a href = "mailto:lfofreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
