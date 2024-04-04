@@ -7,7 +7,6 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 - 🔭 Atualmente estou trabalhando na Compass.UOL
 - 🌱 Estou aprendendo Kotlin e me aprofundando em desenvolvimento para Android
 - 💬 Me pergunte sobre AI, ML, Chatbots
-- 📫 Como me encontrar: lfofreitas@gmail.com 
 
 ## Habilidades
 
@@ -22,10 +21,13 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Leo0liveira)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=synthwave"/>
+[![Estatísticas do GitHub]
+(https://github-readme-stats.vercel.app/api?username=Leo0liveira)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=dracula&show_icons=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&langs_count=16&theme=dracula"/>
+[https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=donut&langs_count=16&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
-- <a href = "mailto:lfofreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- <a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:lfofreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-oliveira-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
