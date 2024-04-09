@@ -21,8 +21,8 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 
 ## Estatísticas do GitHub
 <p align="left">
-<!--   hide_rank=true -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=dracula&show_icons=true&include_all_commits=true"/>
+<!--   hide_rank=true   &include_all_commits=true  -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Leo0liveira&theme=dracula&show_icons=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo0liveira&layout=compact&theme=dracula"/>
 </p>
 
