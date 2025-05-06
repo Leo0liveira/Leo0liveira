@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por chatbots, inteligência artificial ou desenv
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando na Compass.UOL
+- 🔭 Atualmente estou trabalhando na GFT Technologies
 - 🌱 Estou aprendendo Kotlin e me aprofundando em desenvolvimento para Android
 - 💬 Me pergunte sobre AI, ML, Chatbots
 
